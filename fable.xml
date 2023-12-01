@@ -3,6 +3,7 @@
 
         
         <agent img="Sign_2.png" x="350" y="1" width="150" height="150"/>
-        <agent text="Canção do exilio" color="blue" x="150" y="300"/>
+        <agent text="Canção do exilio" color="blue" x="15" y="450"/>
+        <agent text="" />
     </page>
 </fable>
