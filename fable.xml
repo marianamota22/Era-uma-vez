@@ -1,5 +1,7 @@
 <fable>
-	<page> 
+	<page background="bg.png"> 
+
+        <agent img="" />
 
 
         
