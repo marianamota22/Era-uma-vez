@@ -4,7 +4,8 @@
         
         <agent img="Sign_2.png" x="350" y="1" width="150" height="150"/>
         <agent text="Canção do exilio" color="blue" x="15" y="450"/>
-        <agent text="Minha terra tem palmeiras onde canta o sabiá;" color="blue" x="20" y="400" />
+        <agent text="Minha terra tem palmeiras" color="blue" x="20" y="400" />
+        <agent text="onde canta o sabiá;" color="blue" x="22"
         <agent text="as aves, que aqui gorjeiam, não gorjeiam como lá." color="blue" x="25" y="380" />
     </page>
 </fable>
