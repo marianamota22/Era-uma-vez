@@ -1,7 +1,7 @@
 <fable>
 	<page background="bg.png"> 
 
-        <agent img="" />
+        <agent img="Sign_2.png" x="100" y="0" w/>
 
 
         
