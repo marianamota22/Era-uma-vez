@@ -2,7 +2,7 @@
     <page background="bg_neve.png">
 
         
-        <agent img="Sign_2.png" x="100" y="150" width="150" height="150"/>
+        <agent img="Sign_2.png" x="350" y="1" width="150" height="150"/>
         
     </page>
 </fable>
