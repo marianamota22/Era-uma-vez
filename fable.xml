@@ -8,7 +8,7 @@
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380" />
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360" />
         <agent text="não gorjeiam como lá" color="blue" x="15" y="340" />
-        <agent img="Tree_2.png" x="300"
+        <agent img="Tree_2.png" x="300" y="10" width="20" height="30"
 
         
     </page>
