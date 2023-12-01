@@ -1,9 +1,8 @@
 <fable>
-	<page background="bg.png"> 
-
-        <agent img="Sign_2.png" x="10" y="10" width="60" height="100"/>
-
+    <page background="bg.png">
 
         
-  </page>
+        <agent img="Sign_2.png" x="100" y="100" width="100" height="10"/>
+        
+    </page>
 </fable>
