@@ -7,6 +7,6 @@
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400" />
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380" />
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360" />
-        <agent text=""
+        <agent text="não gorjeiam como lá" color="blue" x="15" y="3"
     </page>
 </fable>
