@@ -3,6 +3,7 @@
     <page background="bg.png">
         
         <agent img="Tree_2.png" x="1" y="1" width="200" height="200"/>
+        <agent img="Bush (3).png" x="3" y="3" width="210" hei
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400"/>
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380"/>
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360"/>
