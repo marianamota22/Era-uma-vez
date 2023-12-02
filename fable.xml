@@ -13,13 +13,12 @@
 
     <page background="noite_dark.png">
 
-        <agent img="Tree.png" x="10" y="10" whidt="150" height="150"/>
+        <agent img="Tree.png" x="1" y="1" whidt="150" height="150"/>
         <agent text="Minha terra não tem palmeiras" color="darkred" x="280" y="360"/>
         <agent text="não tem mais sabiá;" color="darkred" x="280" y="340"/>
         <agent text="não tem aves para gorjeiar," color="darkred" x="280" y="320"/>
         <agent text="nem aqui, nem em lugar algum." color="darkred" x="280" y="280"/>
         <agent img="Sign.png" x="1" y="1" width="150" height="150"/>
-
         
     </page>
 </fable>
