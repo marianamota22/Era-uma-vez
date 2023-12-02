@@ -13,7 +13,7 @@
 
     <page background="noite_dark.png">
 
-        <agent img="Tree.png" x
+        <agent img="Tree.png" x="1" y="1" width="150" height="150"
         <agent text="Minha terra não tem palmeiras" color="darkred" x="280" y="360"/>
         <agent text="não tem mais sabiá;" color="darkred" x="280" y="340"/>
         <agent text="não tem aves para gorjeiar," color="darkred" x="280" y="320"/>
