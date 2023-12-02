@@ -12,7 +12,8 @@
 
     <page background="noite_dark.png">
 
-<agent img="Sign.png" x="350" y="1" width=""
+        <agent text="MInha"
+        <agent img="Sign.png" x="350" y="1" width=""
 
         
     </page>
