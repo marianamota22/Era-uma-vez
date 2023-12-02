@@ -12,7 +12,8 @@
 
     <page background="noite_dark.png">
 
-        <agent text="MInha"
+        <agent text="Minha terra não tem palmeiras" color="white" x="400" y="15"/>
+        <agent
         <agent img="Sign.png" x="350" y="1" width=""
 
         
