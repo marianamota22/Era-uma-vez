@@ -16,7 +16,7 @@
         <agent text="não tem mais sabiá;" color="darkred" x="280" y="340"/>
         <agent text="não tem aves para gorjeiar," color="darkred" x="280" y="320"/>
         <agent text="nem aqui, nem em lugar algum." color="darkred" x="280" y="280"/>
-        <agent text="SLZ" color="darkred" x=
+        <agent text="SLZ" color="darkred" x="30" y="1" width="150" heigth="150"
         <agent img="Sign.png" x="350" y="1" width="150" height="150"
 
         
