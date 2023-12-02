@@ -2,11 +2,11 @@
     
     <page background="bg.png">
         
+        <agent img="Tree.png" x="30" y="30" width="200" height="200"/>
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400"/>
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380"/>
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360"/>
         <agent text="não gorjeiam como lá." color="blue" x="15" y="340"/>
-        <agent img="Tree_2.png" x="280" y="15" width="200" height="200"
         <agent img="Sign_1.png" x="350" y="1" width="150" height="150" on-touch="_NEXT_PAGE"/>
 
     </page>
