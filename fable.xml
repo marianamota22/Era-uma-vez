@@ -2,7 +2,7 @@
     
     <page background="bg.png">
         
-        <agent img="Sign_2.png" x="350" y="1" width="150" height="150"/>
+        <agent img="Sign_2.png" x="350" y="1" width="
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400"/>
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380"/>
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360"/>
