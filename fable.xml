@@ -3,7 +3,6 @@
     <page background="bg.png">
         
         <agent img="Tree_2.png" x="1" y="1" width="200" height="200"/>
-        <agent img="Bush (3).png" x="250" y="1" width="180" height="180"
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400"/>
         <agent text="onde canta o sabiá;" color="blue" x="15" y="380"/>
         <agent text="as aves, que aqui gorjeiam," color="blue" x="15" y="360"/>
@@ -14,12 +13,11 @@
 
     <page background="noite_dark.png">
 
-        <agent img="Tree.png" x="1" y="1" whidt="150" height="150"
+        <agent img="Tree.png" x="1" y="1" whidt="150" height="150"/>
         <agent text="Minha terra não tem palmeiras" color="darkred" x="280" y="360"/>
         <agent text="não tem mais sabiá;" color="darkred" x="280" y="340"/>
         <agent text="não tem aves para gorjeiar," color="darkred" x="280" y="320"/>
         <agent text="nem aqui, nem em lugar algum." color="darkred" x="280" y="280"/>
-        <a
         <agent img="Sign.png" x="1" y="1" width="150" height="150"
 
         
