@@ -1,6 +1,6 @@
 <fable>
     
-    <page background="bg.png">
+    <page background="bg.png" soundtrack>
         
         <agent img="Tree_2.png" x="1" y="1" width="200" height="200"/>
         <agent text="Minha terra tem palmeiras" color="blue" x="15" y="400"/>
